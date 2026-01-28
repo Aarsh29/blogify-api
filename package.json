@@ -12,5 +12,14 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aarsh29/blogify-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aarsh29/blogify-api/issues"
+  },
+  "homepage": "https://github.com/Aarsh29/blogify-api#readme"
 }
